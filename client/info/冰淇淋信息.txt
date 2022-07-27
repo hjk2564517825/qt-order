@@ -1,6 +1,0 @@
-饮品拼冰淇淋@./images/ice_1.png@13@
-华夫饼拼冰淇淋@./images/ice_2.png@12@
-圣代双拼@./images/ice_3.png@8@
-甜筒双拼@./images/ice_4.png@6@
-甜筒@./images/ice_5.png@6@
-圣代@./images/ice_6.png@8@

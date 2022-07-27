@@ -1,6 +1,0 @@
-莫吉托鸡尾酒@./images/he_1.png@16@
-百事可乐@./images/he_2.png@8@
-K记凉茶@./images/he_3.png@9@
-奶茶@./images/he_4.png@10@
-乌龙茶@./images/he_5.png@9@
-酸梅汁@./images/he_6.png@9@
