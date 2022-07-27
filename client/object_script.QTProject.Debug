@@ -1,0 +1,16 @@
+debug/main.o
+debug/loginscreen.o
+debug/mainscreen.o
+debug/foodcontrol.o
+debug/orderscreen.o
+debug/softkeyboard.o
+debug/keyboardbutton.o
+debug/udptransfer.o
+debug/qrc_images.o
+debug/moc_loginscreen.o
+debug/moc_mainscreen.o
+debug/moc_foodcontrol.o
+debug/moc_orderscreen.o
+debug/moc_softkeyboard.o
+debug/moc_keyboardbutton.o
+debug/moc_udptransfer.o
