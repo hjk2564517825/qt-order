@@ -1,0 +1,16 @@
+release/main.o
+release/loginscreen.o
+release/mainscreen.o
+release/foodcontrol.o
+release/orderscreen.o
+release/softkeyboard.o
+release/keyboardbutton.o
+release/udptransfer.o
+release/qrc_images.o
+release/moc_loginscreen.o
+release/moc_mainscreen.o
+release/moc_foodcontrol.o
+release/moc_orderscreen.o
+release/moc_softkeyboard.o
+release/moc_keyboardbutton.o
+release/moc_udptransfer.o

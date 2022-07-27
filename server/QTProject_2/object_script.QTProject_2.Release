@@ -1,0 +1,12 @@
+release/main.o
+release/menu.o
+release/orderserver.o
+release/mainserver.o
+release/recvfile.o
+release/sendfile.o
+release/qrc_images.o
+release/moc_menu.o
+release/moc_orderserver.o
+release/moc_mainserver.o
+release/moc_recvfile.o
+release/moc_sendfile.o

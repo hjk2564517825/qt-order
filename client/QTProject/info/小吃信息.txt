@@ -1,0 +1,6 @@
+小吃拼盘@./images/xiaochi_1.png@59@
+鸡米花@./images/xiaochi_2.png@16@
+上校鸡块@./images/xiaochi_3.png@18@
+薯条@./images/xiaochi_4.png@10@
+薯棒@./images/xiaochi_5.png@12@
+薯饼@./images/xiaochi_6.png@11@

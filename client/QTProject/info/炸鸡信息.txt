@@ -1,0 +1,6 @@
+脆皮鸡腿@./images/ji_1.png@8@
+原味拼奥尔良鸡@./images/ji_2.png@24@
+奥尔良烤鸡@./images/ji_3.png@18@
+尖椒藤椒鸡@./images/ji_4.png@20@
+黄金脆皮鸡@./images/ji_5.png@18@
+脆皮鸡排@./images/ji_6.png@11@
