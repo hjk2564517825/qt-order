@@ -1,6 +1,0 @@
-脆鸡堡@./images/bao_1.png@9@
-烤肉堡@./images/bao_2.png@12@
-龙虾鸡肉堡@./images/bao_3.png@20@
-培根牛肉堡@./images/bao_4.png@20@
-手撕鸡肉堡@./images/bao_5.png@20@
-双层鸡肉堡@./images/bao_6.png@18@
